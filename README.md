@@ -5,3 +5,5 @@ In this we will be doing some sentiment analysis in python using two different t
 VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
 
 Roberta Pretrained Model from 🤗 Huggingface Pipeline
+
+This is done using the amazon reviews dataset
