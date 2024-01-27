@@ -7,3 +7,6 @@ VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
 Roberta Pretrained Model from 🤗 Huggingface Pipeline
 
 This is done using the amazon reviews dataset
+
+libraries used:
+pandas,numpy,Transformers and nltk
